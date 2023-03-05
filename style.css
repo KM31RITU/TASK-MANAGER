@@ -3,7 +3,7 @@
   }
   
   body {
-    background-color: rgb(75, 75, 231);
+    background-color: rgba(75, 75, 231, 0.575);
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     min-height: 100vh;
     display: flex;
@@ -106,7 +106,7 @@
   }
   
   .modal.active {
-    top: 15%;
+    top: 50%;
   }
   
   .modal .header {
